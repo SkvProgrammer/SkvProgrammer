@@ -2,7 +2,7 @@
 <div class="col-lg-6 col-md-6 col-sm-12"><p style="text-align:justify;font-family: 'Courgette', cursive!important;">&quot;Hello awesome programmers this is Satyam Kumar Verman, I am a self-taught programmer and blogger, I am also good at web development and I have created this website to share my knowledge with the world. So my goal is simple Teaching and Learning. I also write technical Blogs at <a href="https://devtipsntricks.com">DevTipsNTricks.com</a>,you can join us on <a href="https://patreon.com/skvprogrammer">Patreon</a> and support us.You can connect with me on 
      
 
-    <i class="fa fa-instagram" onclick="window.open('https://instagram.com/satyamkumarverman')"></i>,<i class="fa fa-facebook" onclick="window.open('https://facebook.com/satyam.varman.5')"></i>, <i class="fa fa-twitter" onclick="window.open('https://twitter.com/skvprogrammer')"></i>, <i class="fa fa-youtube" onclick="window.open('https://www.youtube.com/channel/UC_pPPgwvndi8f2RkbkbvOIA')"></i>.You can also join our <a href="https://t.me/awesomeprogrammers">Telegram Channel</a> and <a href="https://discord.gg/pcA4ksx">Discord channel</a>.
+<i class="fa fa-instagram" onclick="window.open('https://instagram.com/satyamkumarverman')"></i>,<i class="fa fa-facebook" onclick="window.open('https://facebook.com/satyam.varman.5')"></i>, <i class="fa fa-twitter" onclick="window.open('https://twitter.com/skvprogrammer')"></i>, <i class="fa fa-youtube" onclick="window.open('https://www.youtube.com/channel/UC_pPPgwvndi8f2RkbkbvOIA')"></i>.You can also join our <a href="https://t.me/awesomeprogrammers">Telegram Channel</a> and <a href="https://discord.gg/pcA4ksx">Discord channel</a>.
     &quot;</p></div>
   </div>
   
