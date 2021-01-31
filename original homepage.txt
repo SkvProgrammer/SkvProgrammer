@@ -1,0 +1,527 @@
+{% load static %}
+<!doctype html>
+<html lang="en" class="text-gray-900 antialiased leading-tight">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=0.8, minimum-scale=0.8"/>
+ <script async src="https://cse.google.com/cse.js?cx=016236012273495808262:cabujlbzuwi"></script><link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text&display=swap" rel="stylesheet">
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"
+          rel="stylesheet">
+
+   <!-- <link rel="stylesheet" type="text/css" href="{% static 'css/style.css' %}?{% now 'U' %}">
+-->
+    <link rel="shortcut icon" href="https://bestpythontutorials.com/favicon2.png"
+          type="image/x-icon"/>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+    <title>Online Python IDE by BestPythonTutorials.com</title>
+</head>
+<body onload="startup()">
+<style type="text/css">
+    .run:hover{
+        cursor:pointer;
+    }
+
+    #editor{
+        font-size:19px!important;
+    }
+    html, body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    background-color: #232323;
+    color: #ffffff;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+* {
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.editor-container {
+    max-height: 90vh;
+}
+
+#editor {
+    position: relative;
+    height: 93vh;
+    right: 0;
+    bottom: 0;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 60% 40%;
+}
+
+
+.io {
+    display: grid;
+    grid-template-rows: 50% 50%;
+
+}
+
+.io-heading {
+    /*background-color: #2c2c2c;*/
+    padding-left: 15px;
+    width: 90%;
+}
+
+.io-field {
+    background-color: transparent;
+    width: 93%;
+    height: 37vh;
+    overflow-y: scroll;
+    border-left: 5px solid #2c2c2c;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+
+    margin-left: 10px;
+
+    padding-left: 20px;
+    padding-right: 10px;
+
+    resize: none;
+    color: #ffffff;
+
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+    font-size: 12px;
+}
+
+
+.nav {
+    background-color: #2c2c2c;
+    padding: 0 40px;
+    display: flex;
+    font-size: 13px;
+}
+
+.logo {
+    margin: auto auto auto 10px;
+}
+
+.logo-name {
+    color: #ffffff !important;
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-left: 5px;
+}
+
+.logo-img {
+    vertical-align: middle;
+    margin-bottom: 4px;
+}
+
+
+.options {
+    justify-content: right;
+}
+
+.options ul {
+    list-style: none;
+}
+
+select {
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    border-radius: 4px;
+    display: inline-block;
+
+    font: inherit;
+    font-size: 14px;
+    font-weight: 600;
+
+    line-height: 1.5em;
+
+    padding: 0.7em 3.5em 0.7em 1em;
+
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+}
+
+.options ul li {
+    display: inline;
+    margin: 0 7px;
+    font-weight: 500;
+    width: 100px;
+    font-size: 1rem;
+}
+
+select.select-dropdown {
+    background: url(../img/down.svg);
+    background-position: calc(100% - 15px) calc(1.1em), calc(100% - 15px) calc(1em + 2px), calc(100% - .5em) .5em;
+    background-size: 10px 10px, 10px 10px, 1.5em 1.5em;
+    background-repeat: no-repeat;
+}
+
+optgroup {
+    color: black;
+}
+
+option {
+    background: white;
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+}
+
+.run {
+    padding: 0.7em 2em;
+    background-color: #ff4f30;
+    border: 2px solid #ff4f30;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+
+    display: inline-flex;
+    align-self: center;
+}
+
+.download{
+    padding: 0.7em 2em;
+    background-color: #ffc800;
+    border: 2px solid #ffc800;
+    border-radius: 4px;
+    color: #12072d;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+
+    display: inline-flex;
+    align-self: center;
+}
+
+.run svg, .download svg {
+    height: 1em;
+    width: 1em;
+    margin: auto 0 auto 10px;
+}
+
+.alert {
+    top: 20px;
+    right: 20px;
+    width: 40%;
+    z-index: 1000;
+    border-radius: 5px;
+
+    padding: 20px;
+
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.error {
+    background-color: #ff4e2e;
+    position: absolute;
+}
+
+.success {
+    background-color: #4ad369;
+    position: absolute;
+}
+
+.processing {
+    position: absolute;
+    background-color: #e8f8ff;
+    border-radius: 4px;
+    color: #0c0c10;
+
+}
+
+.closebtn {
+    margin-left: 15px;
+    color: #ffffff;
+    float: right;
+    font-size: 22px;
+    line-height: 26px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+
+.closebtn:hover {
+    color: #ffe8c7;
+}
+
+
+.hidden {
+    display: none;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-track {
+    background: #2c2c2c;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #8f8f8f;;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.mobile {
+    display: none;
+}
+
+.output-meta {
+    float: right;
+    font-weight: 400;
+}
+
+#time, #mem {
+    font-size: 12px;
+    margin: 0 3px;
+}
+
+@media only screen and (max-width: 50px) {
+    .container {
+        display: none;
+    }
+
+    .mobile {
+        display: flex;
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+
+    .mobile-container {
+        width: 300px;
+        height: 300px;
+    }
+
+    .pc {
+        display: none;
+    }
+}
+
+</style>
+
+
+<div class="mobile">
+    <div class="mobile-container" align="center">
+     
+      <p>This website only works in screen width larger than 900px</p>
+    </div>
+</div>
+
+
+<div class="pc">
+   
+    {% include 'base/code-editor-header.html' %}
+
+    <div class="alert processing hidden" id="processing">
+        <img src="{% static 'img/loading.svg' %} " height="20px" alt="" style="margin-right: 15px">
+        Processing . . .
+    </div>
+
+    <div class="alert error hidden" id="error">
+        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+        <div id="message_error"></div>
+    </div>
+
+    <div class="alert success hidden" id="success">
+        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+        <div id="message_success"></div>
+        <br>
+        <div id="time"></div>
+        <div id="mem"></div>
+    </div>
+
+
+    <div class="container">
+        <div class="editor-container">
+            <div id="editor" style="font-size:25px;"></div>
+            <textarea name="submission" id="submission" style="display:none;"></textarea>
+            {% csrf_token %}
+        </div>
+
+        <div class="io">
+
+            <div class="input" style="width:95%;">
+                <h3 class="io-heading">Input</h3>
+                <p style="text-align:center;">(If your program requires input then write each input values in separate line.)</p>
+                <div class="io-container">
+                    <textarea name="input" id="input" class="io-field" spellcheck="false" style="border:1px solid white;width:90%;height:20vh;border-radius:10px;"></textarea>
+                </div>
+            </div>
+            <div class="output">
+                <h3 class="io-heading">
+                    Output
+                </h3>
+                <div class="io-container">
+                    <div id="output" class="io-field out"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+{% include 'base/ace-cdn.html' %}
+<!--<script src="{% static 'js/script.js' %}"></script>-->
+<script type="text/javascript">
+    //scripts
+ace.require("ace/ext/language_tools");
+var editor = ace.edit("editor");
+
+editor.setOptions({
+    enableBasicAutocompletion: true,
+    enableSnippets: true,
+    enableLiveAutocompletion: true,
+});
+
+
+editor.setTheme("ace/theme/monokai");
+editor.session.setMode("ace/mode/c_cpp");
+editor.setFontSize(16);
+
+
+editor.setOptions({
+    enableBasicAutocompletion: true,
+    enableSnippets: true,
+    enableLiveAutocompletion: true,
+});
+
+editor.clearSelection();
+
+function startup() {
+
+    let code = localStorage.getItem("code");
+    let language = localStorage.getItem("language");
+    let input = localStorage.getItem("input")
+
+    if (code != null) {
+        editor.setValue(code)
+        editor.session.setMode("ace/mode/" + get_ext(language))
+        document.getElementById("input").innerHTML = input;
+        document.getElementById("language").value = language;
+
+    } else {
+        fetch("static/code-template/template.python")
+            .then(response => response.text())
+            .then(
+                data => {
+                    editor.setValue(data);
+                    editor.clearSelection();
+                });
+    }
+}
+
+
+function download(){
+    var mimeType = document.getElementById('language').value;
+    if(mimeType === "python"){
+        mimeType = "py";
+    }
+
+    var filename = "code." + mimeType;
+    var elHtml = editor.getSession().getValue();
+    var link = document.createElement('a');
+    mimeType = mimeType || 'text/plain';
+
+    link.setAttribute('download', filename);
+    link.setAttribute('href', 'data:' + mimeType  +  ';charset=utf-8,' + encodeURIComponent(elHtml));
+    link.click();
+}
+
+
+function get_ext(lang) {
+    if (lang === "c" || lang === "cpp") return "c_cpp";
+    else return lang;
+}
+
+function changeLang(language) {
+
+    fetch("static/code-template/template." + language.value)
+        .then(response => response.text())
+        .then(
+            data => {
+                editor.setValue(data);
+                editor.clearSelection();
+            });
+
+    editor.session.setMode("ace/mode/" + get_ext(language.value));
+
+}
+
+function changeTheme(theme) {
+    editor.setTheme("ace/theme/" + theme.value);
+}
+
+function submit() {
+
+
+    $("#processing").css({"display": "block"});
+    $('#output').empty();
+
+    var code = editor.getSession().getValue();
+    var language = get_ext(document.getElementById('language').value);
+    var input = document.getElementById('input').value;
+    var csrf = document.getElementsByName('csrfmiddlewaretoken')[0].value;
+
+   /*localStorage.setItem("code", code);
+    localStorage.setItem("language", document.getElementById('language').value);
+    localStorage.setItem("input", input);
+*/
+    sessionStorage.setItem("code", code);
+    sessionStorage.setItem("language", document.getElementById('language').value);
+    sessionStorage.setItem("input", input);
+
+
+    $.ajax({
+        method: 'POST',
+        url: '/run/',
+        data: {
+            language: language,
+            code: code,
+            input: input,
+            csrfmiddlewaretoken: csrf,
+        }
+    })
+        .done(function (data, statuyouts) {
+            document.getElementById('output').innerText = data.output;
+            if (data.verdict === "success") {
+                $('#message_success').text(data.message);
+                $("#success").css({"display": "block"});
+                $('#time').text("Time taken: " + data.time + " s. ");
+                $('#mem').text("Memory used: " + data.memory + " MB.");
+            } else {
+                $('#message_error').text(data.message);
+                $("#error").css({"display": "block"});
+            }
+            $("#processing").css({"display": "none"});
+        })
+        .fail(function (data, status) {
+            $('#message_error').text(data.message);
+            $("#error").css({"display": "block"});
+            $("#processing").css({"display": "none"});
+        });
+}
+</script>
+</body>
+</html>
