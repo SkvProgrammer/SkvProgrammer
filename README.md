@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div class="col-lg-6 col-md-6 col-sm-12"><p style="text-align:justify;font-family: 'Courgette', cursive!important;">&quot;Hello awesome programmers this is Satyam Kumar Verman,self-taught programmer and blogger.I have created this website to share my knowledge with the world. So my goal is simple Teaching and Learning. I also write technical Blogs at <a href="https://articles.bestpythontutorials.com">articles.bestpythontutorials.com</a>.
+<div class="col-lg-6 col-md-6 col-sm-12"><p style="text-align:justify;font-family: 'Courgette', cursive!important;">Hello awesome programmers this is Satyam Kumar Verman,self-taught programmer and blogger.I have created this website to share my knowledge with the world. So my goal is simple Teaching and Learning. I also write technical Blogs at <a href="https://articles.bestpythontutorials.com">articles.bestpythontutorials.com</a>.
    How to reach me: 
 Email:developer@bestpythontutorials.com
 
