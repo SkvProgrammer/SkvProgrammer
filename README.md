@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div class="col-lg-6 col-md-6 col-sm-12"><p style="text-align:justify;font-family: 'Courgette', cursive!important;">Hello awesome programmers this is Satyam Kumar Verman,self-taught programmer and much more ......
+<div class="col-lg-6 col-md-6 col-sm-12"><p style="text-align:justify;font-family: 'Courgette', cursive!important;">Hello awesome programmers I am Satyam Kumar Verman,a self-taught programmer and much more ......
 
   </div>
   
