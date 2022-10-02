@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div class="col-lg-6 col-md-6 col-sm-12"><p style="text-align:justify;font-family: 'Courgette', cursive!important;">Hello awesome programmers this is Satyam Kumar Verman,self-taught programmer and blogger.I write technical Blogs at <a href="https://articles.bestpythontutorials.com">articles.bestpythontutorials.com</a>.
-   How to reach me: 
-Email:developer@bestpythontutorials.com
+<div class="col-lg-6 col-md-6 col-sm-12"><p style="text-align:justify;font-family: 'Courgette', cursive!important;">Hello awesome programmers this is Satyam Kumar Verman,self-taught programmer and much more ......
 
   </div>
   
