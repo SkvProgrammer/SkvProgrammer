@@ -5,6 +5,9 @@
   click below to view my portfolio:
   https://skvprogrammer.github.io/portfolio/
   
+  read my blogs 
+  https://medium.com/the-tech-blogs
+  
   
   
 <!--
