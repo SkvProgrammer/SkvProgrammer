@@ -3,7 +3,7 @@
 
 
 
-  I do competitive programming,Web development and I am passionate about Open source and Machine learning.
+ I am Satyam Kumar Verman, I do competitive programming, Web development and I am passionate about Open source and Machine learning.
   read my blogs 
   https://medium.com/the-tech-blogs
   
