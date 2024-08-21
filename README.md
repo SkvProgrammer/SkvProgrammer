@@ -9,9 +9,6 @@
 
 - 🔭 I’m currently working on **Web3**
 
-- 👨‍💻 All of my projects are available at [skvprogrammer.github.io/portfolio](skvprogrammer.github.io/portfolio)
-
-- 📝 I regularly write articles on [medium.com/the-tech-blogs](medium.com/the-tech-blogs)
 
 - 💬 Ask me about **Competitive programming,MERN,Open source,AI and web3**
 
