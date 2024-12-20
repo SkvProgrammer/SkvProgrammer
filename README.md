@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://dev.to/skvprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skvprogrammer" height="30" width="40" /></a>
 <a href="https://twitter.com/skvprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skvprogrammer" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/satyam_vermam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satyam_vermam" height="30" width="40" /></a>
+<!--<a href="https://www.codechef.com/users/satyam_vermam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satyam_vermam" height="30" width="40" /></a>-->
 <a href="https://www.hackerrank.com/skvprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skvprogrammer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/skvprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skvprogrammer" height="30" width="40" /></a>
 </p>
