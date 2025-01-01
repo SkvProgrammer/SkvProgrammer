@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/skvprogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/skvprogrammer?logo=twitter&style=for-the-badge" alt="skvprogrammer" /></a> </p>
 
-- 🔭 I’m currently working on **Web3**
+- 🔭 I’m currently working on **AI**
 
 
 - 💬 Ask me about **Competitive programming,MERN,Open source,AI and web3**
