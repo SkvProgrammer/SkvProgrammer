@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">Aspiring Technologist</h3>
+<h3 align="center">Self taught programmer | Open source dev </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skvprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="skvprogrammer" /> </p>
 
@@ -7,10 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/skvprogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/skvprogrammer?logo=twitter&style=for-the-badge" alt="skvprogrammer" /></a> </p>
 
-- 🔭 I’m currently working on **AI**
+- 🔭 I’m currently working on **Omezle**
 
 
-- 💬 Ask me about **Competitive programming,MERN,Open source,AI and web3**
+- 💬  My interests **Competitive programming,MERN,Open source,AI and web3**
 
 - 📫 How to reach me **satyamkumarverman@gmail.com**
 
