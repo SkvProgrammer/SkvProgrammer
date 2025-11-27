@@ -1,39 +1,107 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
-<h3 align="center">Self taught programmer | Open source dev </h3>
+<h3 align="center">Self-taught Programmer • Open Source Developer • MERN & Competitive Programming Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skvprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="skvprogrammer" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skvprogrammer" alt="skvprogrammer" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/skvprogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/skvprogrammer?logo=twitter&style=for-the-badge" alt="skvprogrammer" /></a> </p>
-
-- 🔭 I’m currently working on **Omezle**
-
-
-- 💬  My interests **Competitive programming,MERN,Open source,AI and web3**
-
-- 📫 How to reach me **satyamkumarverman@gmail.com**
-
-- ⚡ Fun fact **I love computers more than humans**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/skvprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skvprogrammer" height="30" width="40" /></a>
-<a href="https://twitter.com/skvprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skvprogrammer" height="30" width="40" /></a>
-<!--<a href="https://www.codechef.com/users/satyam_vermam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="satyam_vermam" height="30" width="40" /></a>-->
-<a href="https://www.hackerrank.com/skvprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="skvprogrammer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/skvprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skvprogrammer" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=skvprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="skvprogrammer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" width="40" height="40" />
- </a>   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  </p>
+<p align="center">
+  <a href="https://twitter.com/skvprogrammer" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/skvprogrammer?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+  <a href="https://github.com/skvprogrammer?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/skvprogrammer?logo=github&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skvprogrammer&show_icons=true&locale=en&layout=compact" alt="skvprogrammer" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skvprogrammer&show_icons=true&locale=en" alt="skvprogrammer" /></p>
+### 🔭 **Currently working on**
+- 🚀 **Omezle** — A modern, scalable Omegle alternative  
+- 🌐 Cloud, system design & large-scale backend architectures  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skvprogrammer&" alt="skvprogrammer" /></p>
+### 💬 **Interests**
+- Competitive Programming (C++ / DSA)
+- MERN Stack
+- Open Source
+- AI, WebRTC, real-time systems
+- Web3 technologies
+
+### 📫 **Reach me at**
+**satyamkumarverman@gmail.com**
+
+### ⚡ **Fun fact**
+I love computers more than humans 😄
+
+---
+
+# 🛠️ Languages & Tools
+
+## 🎯 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django" />
+</p>
+
+---
+
+## 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
+</p>
+
+---
+
+## 🔌 API & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git" />
+</p>
+
+---
+
+## 🛳️ DevOps / Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux" />
+</p>
+
+---
+
+## 🧰 Other Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=heroku" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=skvprogrammer&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skvprogrammer&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skvprogrammer&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=skvprogrammer&theme=darkhub&margin-w=15&margin-h=15" />
+</p>
+
+---
