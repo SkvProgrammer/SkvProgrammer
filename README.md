@@ -89,8 +89,8 @@ I love computers more than humans 😄
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=skvprogrammer&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skvprogrammer&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://skvstats.vercel.app/api?username=skvprogrammer&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://skvstats.vercel.app/api/top-langs/?username=skvprogrammer&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
