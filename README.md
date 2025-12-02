@@ -99,9 +99,5 @@ I love computers more than humans 😄
 
 ---
 
-# 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=skvprogrammer&theme=darkhub&margin-w=15&margin-h=15" />
-</p>
 
 ---
